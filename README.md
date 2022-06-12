@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashishsharma-dev
 - 👀 I’m interested in Web Designing, and Development, Learning new things daily
-- 🌱 I’m currently learning DSA with Java
+- 🌱 I’m currently learning Backend Development with Node.js
 - 📫 How to reach me - linkedin.com/in/ashishsharma-dev
 
 <!---
