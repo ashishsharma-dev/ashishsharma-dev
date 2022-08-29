@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at <strong><a target="_blank" href="https://github.com/ashishsharma-dev?tab=repositories">GitHub.com/AshishSharma-dev</a></strong>
 
-- 💬 Ask me about **HTML, CSS, JavasSript**
+- 💬 Ask me about **HTML, CSS, JavaSript**
 
 - 📫 How to reach me **sharmaashish049@gmail.com**
 
